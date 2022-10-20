@@ -1,0 +1,28 @@
+:root {
+    --color-default: #ffff;
+    --color-primary: #150050;
+    font-family: cursive ;
+  }
+body 
+    {
+    font-family: var(--font-default);
+    background-color: bisque;
+    }
+
+p 
+    {
+    font-size: 20px;
+    text-align: justify;
+    }
+
+h1 {
+    margin-top: 0px;
+}
+  
+h1,h2 
+  {
+    font-family: 'Times New Roman';
+    color: #182747;
+    background: #7895B2;
+  }
+
